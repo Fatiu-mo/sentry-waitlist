@@ -417,7 +417,7 @@ export default function Waitlist() {
 
               <div className="flex items-center justify-center gap-3 relative z-10">
                 {/* <Bot className="w-5 h-5 group-hover:animate-pulse" /> */}
-                <span className="tracking-wider">TEST THE BOT</span>
+                <span className="tracking-wider">JOIN WAITLIST</span>
                 <ExternalLink className="w-4 h-4 opacity-70 group-hover:animate-pulse" />
               </div>
 
