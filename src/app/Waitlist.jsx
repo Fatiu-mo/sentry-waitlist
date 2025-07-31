@@ -335,7 +335,7 @@ export default function Waitlist() {
                 >
                   <Image
                     className="object-cover w-20 h-20 rounded-full"
-                    src="/sentrybot logo.png"
+                    src="/sentrybot_logo.png"
                     alt="Bot Logo"
                     width={40}
                     height={40}
