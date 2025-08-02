@@ -14,7 +14,7 @@ export default function Waitlist() {
 
   const handleTestBot = () => {
     // Replace with your actual Telegram bot link
-    window.open("https://t.me/token_trend_finder_bot", "_blank");
+    window.open("https://t.me/SentryTokenWaitlistBot", "_blank");
   };
 
   const handleSocialLink = () => {
@@ -335,7 +335,7 @@ export default function Waitlist() {
                 >
                   <Image
                     className="object-cover w-20 h-20 rounded-full"
-                    src="/sentrybot_logo.png"
+                    src="/sentrybot.webp"
                     alt="Bot Logo"
                     width={40}
                     height={40}
